@@ -3,4 +3,4 @@
 (error: 'icons/' does not have a commit checked out 
 fatal: adding files failed)
 , пробовала добавить в .gitignor, скорее всего что-то неправильно делаю
-![alt text](скрины интер/скрин.png "Скрин")
+![](скрин.png)
